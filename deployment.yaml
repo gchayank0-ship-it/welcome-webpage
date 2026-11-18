@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: welcome-container
-        image: welcome-webpage:latest
-        imagePullPolicy: Never
+        image: chayank28/welcome-webpage:latest
+        imagePullPolicy: Always
         ports:
         - containerPort: 80

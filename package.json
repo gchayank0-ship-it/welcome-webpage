@@ -1,0 +1,24 @@
+{
+  "name": "welcome-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gchayank0-ship-it/welcome-webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gchayank0-ship-it/welcome-webpage/issues"
+  },
+  "homepage": "https://github.com/gchayank0-ship-it/welcome-webpage#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.53.0"
+  }
+}
